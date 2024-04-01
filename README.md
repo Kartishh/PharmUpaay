@@ -1,7 +1,5 @@
 # Pharmउपाय - Plant Disease Detection App
 
-![Pharmउपाय Logo](pharmupay_logo.png)
-
 ---
 
 ## Overview
@@ -29,10 +27,12 @@ Below are three screenshots showcasing the user interface of Pharmउपाय:
 1. ![Screenshot 1](![Screenshot1](https://github.com/Kartishh/PharmUpaay/assets/123312515/d4b2c8bc-7095-4b09-a3b2-6868b3b08695)
 )
 
-2. ![Screenshot 2]![Screenshot2](https://github.com/Kartishh/PharmUpaay/assets/123312515/4baeee2b-ef42-420e-8f05-a59717452eea)
-()
+2. ![Screenshot 2](![Screenshot2](https://github.com/Kartishh/PharmUpaay/assets/123312515/4baeee2b-ef42-420e-8f05-a59717452eea)
+)
 
-3. ![Screenshot 3](![Screenshot3](https://github.com/Kartishh/PharmUpaay/assets/123312515/72c287f3-9dd6-4a24-a5b0-e81885207e22))
+3. ![Screenshot 3](![Screenshot3](https://github.com/Kartishh/PharmUpaay/assets/123312515/8d5898e4-aaa2-4fd0-adef-14dd58ba4fc8)
+)
+
 
 
 ---
