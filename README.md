@@ -4,7 +4,7 @@
 
 ## Overview
 
-Pharmउपाय is a mobile application designed to aid farmers and gardeners in identifying plant diseases quickly and accurately. By simply taking a photo of a plant leaf or affected area, the app utilizes advanced image processing techniques and a Convolutional Neural Network (CNN) model - VGG-119, to analyze the image and detect potential diseases present in the plant.
+Pharmउपाय is a mobile application designed to aid farmers and gardeners in identifying plant diseases quickly and accurately. By simply taking a photo of a plant leaf or affected area, the app utilizes advanced image processing techniques and a Convolutional Neural Network (CNN) model - VGG-19, to analyze the image and detect potential diseases present in the plant.
 
 This project was initially developed as part of the Smart India Hackathon (SIH) 2023, aiming to address the challenge statement provided by the Ministry. Although the problem statement backing out halted the full development, our team is committed to continuing the project in the future, recognizing its potential to significantly impact agricultural practices.
 
